@@ -1,0 +1,4 @@
+---
+title: Birds and the border wall
+---
+<div class="paragraph"><strong style="color:rgb(0, 0, 0)">Editor's Note:</strong><span style="color:rgb(0, 0, 0)">&nbsp;We received a lengthy response from Steve Hodapp to Laura Neale's feature in the February 2019 newsletter, "The Rio Grande: what would The Wall mean for birds" In her piece, Laura noted that the Rockbridge Bird Club had signed on to a letter from the American Bird Conservancy expressing concern over plans to expand the United States - Mexico border wall across environmentally sensitive conservation areas. See below to read the Conservancy letter and Steve's response.<br /><br />&nbsp;<a href="/uploads/2/6/7/8/26780846/abc_letter_2.pdf">Letter from American Bird Conservancy</a><br /><br /><a href="/uploads/2/6/7/8/26780846/hodapp_letter.pdf">Letter from Steve Hodapp</a></span></div>

@@ -3,9 +3,15 @@ title: Rockbridge Bird Club
 ---
 # Welcome to the Rockbridge Bird Club
 
-Encouraging enjoyment, knowledge, and conservation of birds in the Rockbridge County, Virginia area.
+**Encouraging enjoyment, knowledge, and conservation of birds in the Rockbridge
+County, Virginia area.**
 
 For more information, email rockbridgebirdclub@gmail.com
+
+We have recently migrated our website. We are aware that there are some
+formatting issues in migrated blog posts, and hope to correct these over time.
+If you experience trouble with the website, please contact the club and we will
+put you in touch with the person who manages the website.
 
 ## Calendar
 
