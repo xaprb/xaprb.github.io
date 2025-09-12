@@ -1,5 +1,4 @@
 ---
-layout: home
 title: Rockbridge Bird Club
 ---
 # Welcome to the Rockbridge Bird Club

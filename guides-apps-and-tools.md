@@ -1,3 +1,9 @@
+---
+title: Guides, Apps, and Tools
+permalink: /guides-apps-and-tools/
+---
+# Guides, Apps, and Tools
+
 There are almost as many books and guides and resources available to birders as there are species to find in our amazing part of the world.  Here are a few of the major resources you might find useful.  (Know of others?  Send them along and we’ll add to the list.)
 
 **Field Guides**

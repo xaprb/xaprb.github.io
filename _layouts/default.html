@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+{% seo %}
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    {% include head-custom.html %}
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
+        <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
+
+        <ul>
+          <li><a class="" href="/">Home</a></li>
+	<li><a href='/about/'>About</a></li>
+	<li><a href='/contact/'>Contact</a></li>
+	<li><a href='/blog/'>Blog</a></li>
+	<li><a href='/resources/'>Resources</a></li>
+	<li><a href='/guides-apps-and-tools/'>Guides, Apps, Tools</a></li>
+	<li><a href='/newsletter/'>Newsletter</a></li>
+	<li><a href='/birding-hotspots/'>Birding Hotspots</a></li>
+	<li><a href='/christmas-bird-count/'>Christmas Bird Count</a></li>
+
+        </ul>
+
+      </header>
+
+      <section>
+        {{ content }}
+      </section>
+
+      <footer>
+        <p><small>Copyright &copy; 2025</small></p>
+      </footer>
+    </div>
+    <!--[if !IE]><script>fixScale(document);</script><![endif]-->
+  </body>
+</html>

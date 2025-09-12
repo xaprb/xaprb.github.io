@@ -1,4 +1,7 @@
-### Some Helpful Sites around the Web
+---
+title: Some Helpful Sites around the Web
+---
+# Some Helpful Sites around the Web
 
 Sites of Local Interest
 

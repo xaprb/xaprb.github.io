@@ -1,3 +1,10 @@
+---
+title: Birding Hotspots
+permalink: /birding-hotspots/
+---
+# Birding Hotspots
+
+
 There are lots of great birding sites throughout the county.  The map below
 lists several of the highlights - places where you can generally see a variety
 of species, where migrants are often found in the spring, or where the best

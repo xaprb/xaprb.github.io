@@ -1,8 +1,8 @@
 ---
-layout: page
 title: About
 permalink: /about/
 ---
+# About
 
 The Rockbridge Bird Club encourages learning about and enjoying the amazing
 diversity of birds in the Blue Ridge/Great Valley of Virginia.
