@@ -15,16 +15,13 @@ put you in touch with the person who manages the website.
 
 ## Calendar
 
-* **Sep 13, 8-10 am** - Birding at Boxerwood. Open to all, beginners especially welcome. Meet at the kiosk.
-* **Sep 19 at 5pm** - Informal Gathering at Heliotrope 5 pm
-* **Sep 26, 8-10am** - Birding at McCormick Farm. Open to all. Meet at Lexington Food Lion parking lot at 7:15 am to carpool or at McCormick pond parking lot at 8 am.
 * **Oct 11, 8-10 am** - Birding at Boxerwood. Open to all. Meet at the kiosk.
 * **Oct 14, 7pm** – Program: “130 Species in 6 Days: A Photo Tour of Arizona” presented by Dick Rowe in the Kendal Community Room. Open to all.
 * **Oct 24, 8am** - Birding on Buena Vista River Walk. Open to all. Meet at Glen Maury Park entrance.
 
 Be alert for possible impromptu excursions!
 
-Details for Calendar events can be found in the Newsletter
+Details for Calendar events can be found in the Newsletter.
 
 **Join the Club!**  Dues are $15 per household, and donations above that amount are
 gratefully received.  Your contribution helps pay for excellent programs open
