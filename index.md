@@ -18,6 +18,8 @@ put you in touch with the person who manages the website.
 * **Oct 11, 8-10 am** - Birding at Boxerwood. Open to all. Meet at the kiosk.
 * **Oct 14, 7pm** – Program: “130 Species in 6 Days: A Photo Tour of Arizona” presented by Dick Rowe in the Kendal Community Room. Open to all.
 * **Oct 24, 8am** - Birding on Buena Vista River Walk. Open to all. Meet at Glen Maury Park entrance.
+* **Nov 8, 8:30am** -   Birding at Boxerwood, meet at Kiosk.
+* **Nov 21, 8:30am** - Field Trip to Locher Tract, meet at parking lot.
 
 Be alert for possible impromptu excursions!
 
