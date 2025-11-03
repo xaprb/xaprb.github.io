@@ -15,11 +15,12 @@ put you in touch with the person who manages the website.
 
 ## Calendar
 
-* **Oct 11, 8-10 am** - Birding at Boxerwood. Open to all. Meet at the kiosk.
-* **Oct 14, 7pm** – Program: “130 Species in 6 Days: A Photo Tour of Arizona” presented by Dick Rowe in the Kendal Community Room. Open to all.
-* **Oct 24, 8am** - Birding on Buena Vista River Walk. Open to all. Meet at Glen Maury Park entrance.
-* **Nov 8, 8:30am** -   Birding at Boxerwood, meet at Kiosk.
-* **Nov 21, 8:30am** - Field Trip to Locher Tract, meet at parking lot.
+* **Nov 6, 10 am-Noon and 4-5:50 pm** - Seed Sale pick-up at Rockbridge Farmers Co-op
+* **Nov 8, 8:30 am** - 2nd Saturday Birding at Boxerwood 
+* **Nov 21, 8:30 am** - Friday Birding at Locher Tract 
+* **Dec 9, 7:00 pm** - Christmas Bird Count planning session 
+* **Dec 13, 8:30 am** - 2nd Saturday Birding at Boxerwood 
+* **Dec 20, 5:00 pm** - Christmas Bird Count & Potluck Tally at Boxerwood
 
 Be alert for possible impromptu excursions!
 
