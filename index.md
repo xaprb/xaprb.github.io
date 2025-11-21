@@ -15,9 +15,8 @@ put you in touch with the person who manages the website.
 
 ## Calendar
 
-* **Nov 21, 9:00 am** - Friday Birding at Locher Tract 
 * **Dec 9, 7:00 pm** - Christmas Bird Count planning session 
-* **Dec 13, 8:30 am** - 2nd Saturday Birding at Boxerwood 
+* **Dec 13, 9:00 am** - 2nd Saturday Birding at Boxerwood 
 * **Dec 20, 5:00 pm** - Christmas Bird Count & Potluck Tally at Boxerwood
 
 Be alert for possible impromptu excursions!
