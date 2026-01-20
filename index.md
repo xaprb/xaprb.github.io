@@ -15,10 +15,10 @@ put you in touch with the person who manages the website.
 
 ## Calendar
 
-* **Dec 9, 7:00 pm** - Christmas Bird Count planning session in the Piovano Room at Rockbridge Regional Library.
-* **Dec 13, 9:00 am** - 2nd Saturday Birding at Boxerwood. Meet in the parking lot. (Note later winter start time!)
-* **Dec 20, all day** – 2025 Christmas Bird Count (CBC). To participate, contact the club.
-* **Dec 20, 5-7 pm** - Christmas Bird Count Potluck Tally at Boxerwood.
+* **Jan 31, 9:00 am** - Birding at Greenfield Lake (Daleville)
+* **Feb 13-16** - Great Backyard Bird Count
+* **Feb 14, 9:00 am** - 2nd Saturday Birding at Boxerwood (and GBBC!)
+* **Feb 28, 9:00 am** - Birding on the Buena Vista River Walk
 
 Be alert for possible impromptu excursions!
 
