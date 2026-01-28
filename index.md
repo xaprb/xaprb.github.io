@@ -15,7 +15,6 @@ put you in touch with the person who manages the website.
 
 ## Calendar
 
-* **Jan 31, 9:00 am** - Birding at Greenfield Lake (Daleville)
 * **Feb 13-16** - Great Backyard Bird Count
 * **Feb 14, 9:00 am** - 2nd Saturday Birding at Boxerwood (and GBBC!)
 * **Feb 28, 9:00 am** - Birding on the Buena Vista River Walk
