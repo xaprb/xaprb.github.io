@@ -17,7 +17,7 @@ put you in touch with the person who manages the website.
 
 * **Feb 13-16** - Great Backyard Bird Count
 * **Feb 14, 9:00 am** - 2nd Saturday Birding at Boxerwood (and GBBC!)
-* **Feb 28, 9:00 am** - Birding on the Buena Vista River Walk
+* **Feb 28, 9:00 am** - Pond Hopping Field Trip at Greenfield in Daleville, VA
 
 Be alert for possible impromptu excursions!
 

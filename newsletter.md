@@ -5,6 +5,9 @@ title: Newsletter
 
 The Club's newsletters are available below in PDF format. Some newsletters may not be linked, but they should be available upon request.
 
+* [Jan-Feb 2026](/uploads/2026/2026-01-02.pdf)
+* [Dec 2025](/uploads/2026/2025-12.pdf)
+* [Nov 2025](/uploads/2026/2025-11.pdf)
 * [Sep-Oct 2025](/uploads/2/6/7/8/26780846/2025-09-newsletter.pdf)
 * [April 2025](/uploads/2/6/7/8/26780846/april_2025_newsletter.pdf)
 * [April 2024](/uploads/2/6/7/8/26780846/2024-04_newsletter-3.pdf)
