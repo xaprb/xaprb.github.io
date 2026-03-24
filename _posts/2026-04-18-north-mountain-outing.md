@@ -14,4 +14,4 @@ Black-and-white Warblers, Ovenbirds and Eastern Towhees.
 
 We plan to return to Lexington by mid-day, depending on how birdy we find the route. Dress for the
 high elevation (3,400 ft), bring binoculars, water and a snack. In the event of heavy rain, the trip will
-be canceled. For weather updates, check our Facebook page.
+be canceled. For weather updates, check our Facebook page or email Wendy Richards (richardsw@wlu.edu).

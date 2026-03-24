@@ -10,3 +10,5 @@ Birders will meet in the parking lot at 8 am for two-hour stroll
 through the field and woodlands. Bring binoculars, wear sturdy shoes, and dress for
 weather. Walks are canceled for rain. Check our Facebook
 page for a weather update.
+
+We'll also hold another Boxerwood bird walk on [May 9th](/blog/2026-05-09-birding-at-boxerwood/).

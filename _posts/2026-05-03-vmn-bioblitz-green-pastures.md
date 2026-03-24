@@ -26,4 +26,4 @@ to arrive.
 
 Birders are planning to meet at the parking area in Green Pastures at 9 am to walk several of the
 trails for approximately two hours. Folks can meet at the Tractor Supply at 8:15 am to carpool from
-there; the drive is about 30 minutes.
+there; the drive is about 30 minutes. Questions? email Bob Biersack (bob.biersack@gmail.com).
