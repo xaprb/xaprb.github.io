@@ -1,5 +1,7 @@
 ---
 title: Rockbridge Bird Club
+# bundle exec jekyll serve
+# http://127.0.0.1:4000/
 ---
 # Welcome to the Rockbridge Bird Club
 
@@ -8,20 +10,21 @@ County, Virginia area.**
 
 For more information, email rockbridgebirdclub@gmail.com
 
-We have recently migrated our website. We are aware that there are some
-formatting issues in migrated blog posts, and hope to correct these over time.
-If you experience trouble with the website, please contact the club and we will
-put you in touch with the person who manages the website.
-
 ## Calendar
 
-* **Feb 13-16** - Great Backyard Bird Count
-* **Feb 14, 9:00 am** - 2nd Saturday Birding at Boxerwood (and GBBC!)
-* **Feb 28, 9:00 am** - Pond Hopping Field Trip at Greenfield in Daleville, VA
+Details for Calendar events can be found in the Newsletter. Be alert for possible impromptu excursions!
 
-Be alert for possible impromptu excursions!
+<ul class="post-list">
+  {% assign future_posts = site.posts | where_exp: "post", "post.date >= site.time" | sort: 'date'  %}
+  {% for post in future_posts %}
+    <li>
+      <span class="post-date">{{ post.date | date: "%B %d, %Y" }}</span>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 
-Details for Calendar events can be found in the Newsletter.
+## Membership
 
 **Join the Club!**  Dues are $15 per household, and donations above that amount are
 gratefully received.  Your contribution helps pay for excellent programs open
