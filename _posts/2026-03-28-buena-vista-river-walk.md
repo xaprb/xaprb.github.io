@@ -18,4 +18,4 @@ flood wall overlooking the Maury and offers lovely views of
 the river. We’ll also bird along the riparian buffer.
 
 Walkers will meet at 8 am at the Glen Maury Park entrance. The outing will be canceled for rain.
-Check our Facebook page for a weather update or call/text John Maluski.
+Check our Facebook page for a weather update.

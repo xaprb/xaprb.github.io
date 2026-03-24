@@ -1,8 +1,6 @@
 ---
 title: VMN Bioblitz at Green Pastures
 ---
-Bob Biersack, Community Liaison
-
 The Alleghany Highlands chapter of Virginia Master Naturalists will
 hold its third "bioblitz" on Sunday, May 3 at the Green Pastures
 Recreation Area in Longdale Furnace to take inventory of wildlife
@@ -28,4 +26,4 @@ to arrive.
 
 Birders are planning to meet at the parking area in Green Pastures at 9 am to walk several of the
 trails for approximately two hours. Folks can meet at the Tractor Supply at 8:15 am to carpool from
-there; the drive is about 30 minutes. If you have questions, contact Bob Biersack.
+there; the drive is about 30 minutes.

@@ -1,8 +1,6 @@
 ---
 title: North Mountain Outing
 ---
-by Wendy Richards, Field Trips
-
 Join the stellar team of John Pancake and Bob Epperson for a
 driving trip along the ridge of North Mountain!
 
@@ -16,4 +14,4 @@ Black-and-white Warblers, Ovenbirds and Eastern Towhees.
 
 We plan to return to Lexington by mid-day, depending on how birdy we find the route. Dress for the
 high elevation (3,400 ft), bring binoculars, water and a snack. In the event of heavy rain, the trip will
-be canceled. For more information contact Wendy Richards.
+be canceled. For weather updates, check our Facebook page.

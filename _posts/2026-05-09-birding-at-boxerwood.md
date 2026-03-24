@@ -9,4 +9,4 @@ in Rockbridge. Tree Swallows already spotted!
 Birders will meet in the parking lot at 8 am for two-hour stroll
 through the field and woodlands. Bring binoculars, wear sturdy shoes, and dress for
 weather. Walks are canceled for rain. Check our Facebook
-page for a weather update or call/text Bonnie.
+page for a weather update.

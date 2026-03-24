@@ -1,9 +1,6 @@
 ---
 title: Warbler Walk on Apple Orchard Mountain with Dick Rowe
 ---
-
-by Wendy Richards, Field Trips
-
 Retired VMI biology professor and nature photographer
 Dick Rowe will lead a half-day excursion to Apple
 Orchard Mountain to welcome back wood warblers and
@@ -20,4 +17,4 @@ the top of Apple Orchard Mountain and back, returning Lexington by mid-afternoon
 In addition to hearing a variety of wood warblers and catching glimpses of them as they flit through
 the trees, participants are likely to see returning Vireos, Tanagers, and Rose-breasted Grosbeaks.
 Walkers are reminded to wear sturdy footwear and bring binoculars. For more information or
-weather updates, check Rockbridge Bird Club on Facebook or send email to Wendy Richards.
+weather updates, check Rockbridge Bird Club on Facebook.
