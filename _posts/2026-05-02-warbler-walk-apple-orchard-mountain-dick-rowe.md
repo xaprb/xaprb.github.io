@@ -1,5 +1,6 @@
 ---
 title: Warbler Walk on Apple Orchard Mountain with Dick Rowe
+permalink: /blog/warbler-walk-apple-orchard-mountain-dick-rowe/
 ---
 Retired VMI biology professor and nature photographer
 Dick Rowe will lead a half-day excursion to Apple

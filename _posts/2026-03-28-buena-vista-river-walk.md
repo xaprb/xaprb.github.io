@@ -1,5 +1,6 @@
 ---
 title: Buena Vista River Walk
+permalink: /blog/buena-vista-river-walk/
 ---
 Last month’s plans to revisit the Buena Vista River Walk
 were thwarted by winter weather. Now that Winter has

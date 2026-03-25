@@ -1,5 +1,6 @@
 ---
 title: VMN Bioblitz at Green Pastures
+permalink: /blog/vmn-bioblitz-green-pastures/
 ---
 The Alleghany Highlands chapter of Virginia Master Naturalists will
 hold its third "bioblitz" on Sunday, May 3 at the Green Pastures

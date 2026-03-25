@@ -1,5 +1,6 @@
 ---
 title: North Mountain Outing
+permalink: /blog/north-mountain-outing/
 ---
 Join the stellar team of John Pancake and Bob Epperson for a
 driving trip along the ridge of North Mountain!

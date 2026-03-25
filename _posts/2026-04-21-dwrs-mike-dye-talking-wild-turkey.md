@@ -1,5 +1,6 @@
 ---
 title: DWR’s Mike Dye Talking Wild Turkey
+permalink: /dwrs-mike-dye-talking-wild-turkey/
 ---
 
 Wildlife biologist Mike Dye will give a talk on a bird that has come back
