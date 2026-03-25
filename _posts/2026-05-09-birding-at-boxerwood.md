@@ -1,10 +1,7 @@
 ---
 title: Birding at Boxerwood
 ---
-Boxerwood walks will continue on the second Saturday of the
-month through May. Our April walk falls during the spring
-migration, when we hope to greet songbirds returning to breed
-in Rockbridge. Tree Swallows already spotted!
+Boxerwood walks continue on the second Saturday in May, then we'll break for the summer and resume "Birding at Boxerwood" in September. This month, we'll be looking and listening for the many summer breeding birds, admiring their plumage and observing their behavior.
 
 Birders will meet in the parking lot at 8 am for two-hour stroll
 through the field and woodlands. Bring binoculars, wear sturdy shoes, and dress for
