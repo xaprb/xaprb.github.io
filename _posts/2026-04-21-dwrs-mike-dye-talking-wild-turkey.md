@@ -2,6 +2,7 @@
 title: DWR’s Mike Dye Talking Wild Turkey
 permalink: /dwrs-mike-dye-talking-wild-turkey/
 ---
+Mike Dye, Forest Gamebird Biologist for the Virginia Department of Wildlife Resources, will give a talk on Wild Turkeys from 7-8 pm in the Maury River Middle School Library on Tuesday, April 21. The program, sponsored by the Rockbridge Bird Club, is free and open to the public.  
 
 Wildlife biologist Mike Dye will give a talk on a bird that has come back
 from near extinction: the Wild Turkey.
