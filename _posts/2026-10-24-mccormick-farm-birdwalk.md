@@ -8,8 +8,8 @@ walk on the Marl Creek Trail to identify resident species and
 perhaps a few migrants that have lagged behind.
 
 Located in Raphine, the farm was donated to Virginia Tech
-in 1954 and designated a National Historic Landmark in
-1964. Today it is an active agricultural research station with
+in 1954 and designated a National Historic Landmark in 1964.
+Today it is an active agricultural research station with
 ponds and trails open to the public. The varied habitats offer
 excellent opportunities to sight both woodland and water
 birds.
